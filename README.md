@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+**`WEB + MOBILE DEVELOPER `**
+
+
+   I'm a fullstack developer based in Rwanda,    
+        I am currently pursuing a degree in software development
+         at Rwanda Coding Academy, an esteemed institution in our
+          country. I have successfully completed my first year of
+           studies and have acquired valuable skills in web development.
+
 <!--
 **NICOLA-200/NICOLA-200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
