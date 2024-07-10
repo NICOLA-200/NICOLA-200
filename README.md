@@ -62,5 +62,28 @@ Here are some ideas to get you started:
 
 
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-                              
+#### Top Repositories
+
+
+<a href="https://github.com/NICOLA-200/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NICOLA-200&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/NICOLA-200/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NICOLA-200&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>]
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=NICOLA-200&show_icons=true&theme=gruvbox)
